@@ -1,0 +1,16 @@
+h1{
+    color:red;
+}
+
+h2{
+    color: green;
+}
+
+body{
+    background-image: url(images/istockphoto-1409722748-1024x1024\ \(1\).jpg);
+}
+
+img{
+    height: 500px;
+    width: 800px;
+}
